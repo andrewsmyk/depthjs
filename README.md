@@ -32,8 +32,8 @@ Event handlers in the browser extension may be placed globally, in content scrip
 FLOW DIAGRAM:
 Kinect =====> Browser plugin/native code =====> Browser extension ===(Javascript+DOM events)==> Any web page
 
-Note: As of now we are using OpenNI/NITE for tracking and gesture rec. Download the precompiled libs from: 
-http://www.openni.org/Downloads/OpenNIModules.aspx
+Note: As of now we are using OpenNI/NITE for tracking and gesture rec. Download the precompiled libs available in the SDK from: http://www.openni.org/openni-sdk/ and the 
+NITE middleware: http://www.openni.org/files/nite/
 
 Platforms
 ---------
